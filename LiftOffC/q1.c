@@ -6,11 +6,9 @@ int main()
     int sum, sub, mul, mod, qotient;
     float div;
 
-    /** Input two numbers from user **/
     printf("Enter any two numbers::\n");
     scanf("%d%d", &p, &q, "\n");
 
-    /** Perform all arithmetic operations **/ 
     sum = p + q;
     sub = p - q;
     mul = p * q;
@@ -18,7 +16,6 @@ int main()
     div = (float)p / q;
     mod = p % q;
 
-    /** Print result of all arithmetic operations **/
     printf("\n");
     printf("SUM        %d + %d = %d\n", p, q, sum);
     printf("DIFFERENCE %d - %d = %d\n", p, q, sub);
