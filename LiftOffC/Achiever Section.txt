@@ -1,0 +1,5 @@
+Q1. B. 5 6 7
+Q2. C. Hai
+Q3. D. inside else block
+Q4. B. Hai
+Q5. A. inside if block
